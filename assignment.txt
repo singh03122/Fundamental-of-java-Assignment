@@ -1,0 +1,65 @@
+Q1.What is Programming language ?
+
+Ans :-A programming language is a formal set of instructions used to produce a wide range of outputs, such as software applications, algorithms, and data processing tasks. Programming languages enable developers to communicate with computers and instruct them on how to perform specific tasks.
+
+Q2. Why do we need a programming language ?
+
+Ans :- We need programming languages for several reasons:
+ 1. Communication with Computers
+   - Human-Computer Interaction:** Programming languages act as a bridge between human logic and computer instructions. They allow us to write code that a computer can understand and execute to perform specific tasks.
+
+2. Automation:
+   - Task Automation Programming languages enable the automation of repetitive tasks, from simple calculations to complex data processing. This saves time and reduces human error.
+
+ 3. Software Development:Application Creation: They are essential for developing software applications, ranging from operating systems and web browsers to mobile apps and games.
+
+ 4. Problem Solving:
+   - Algorithm Implementation Programming languages allow us to implement algorithms to solve various computational problems, from sorting data to complex scientific simulations.
+
+ 5. Productivity and Efficiency
+   - Code Reusability - Many programming languages come with libraries and frameworks that provide reusable code for common tasks, boosting productivity and efficiency.
+
+
+Q3. What are the features of Java ?
+
+Ans:- Java is a widely used programming language known for its versatility and robustness. Here are some key features of Java:
+
+1. Object-Oriented:
+Encapsulation: Bundles data and methods that operate on the data into a single unit (class) and restricts direct access to some of the object's components.
+Inheritance: Allows a new class to inherit the properties and behavior of an existing class.
+Polymorphism: Enables one interface to be used for a general class of actions, with specific actions determined by the exact nature of the situation.
+Abstraction: Hides the complex implementation details and shows only the necessary features of an object.
+2. Platform-Independent:
+Bytecode: Java code is compiled into bytecode, which can be executed on any platform that has a compatible Java Virtual Machine (JVM). This follows the principle of "write once, run anywhere."
+3. Simple and Easy to Learn:
+Simplicity: Java's syntax is straightforward and similar to C++, which makes it easier to learn and use.
+4. Secure:
+Security Features: Java provides a secure execution environment with its built-in security manager and bytecode verification. This helps prevent harmful operations and ensures safe execution of code.
+5. Robust:
+Exception Handling: Provides robust exception handling mechanisms to manage runtime errors.
+Memory Management: Includes automatic garbage collection to manage memory and reduce memory leaks.
+6. Multithreaded:
+Concurrency Support: Java supports multithreading, allowing multiple threads to run concurrently, improving performance and responsiveness.
+7. Distributed:
+Networking: Java has built-in support for networking and distributed computing, making it easier to develop applications that work across networks.
+8. Dynamic:
+Dynamic Loading: Java can dynamically load classes and libraries at runtime, which provides flexibility and allows applications to adapt to new requirements.
+9. Portable:
+Platform Independence: Due to its bytecode and JVM approach, Java programs can run on any device or operating system that supports Java.
+10. High Performance:
+JIT Compiler: The Just-In-Time (JIT) compiler improves performance by compiling bytecode into native machine code at runtime.
+11. Strongly Typed:
+Type Checking: Java enforces strict type checking at both compile-time and runtime, which helps prevent type-related errors.
+12. Rich Standard Library:
+API Availability: Java provides a comprehensive set of libraries and APIs that support various functionalities, including data structures, networking, I/O operations, and user interfaces.
+13. Community Support:
+Large Ecosystem: Java has a vast and active community, which provides extensive resources, tools, frameworks, and support.
+
+
+Q4.What is an Object ?
+
+Ans :- An object is a core concept in OOP that encapsulates data and behavior, making it easier to model real-world entities and their interactions. Objects help manage complexity by organizing data and functionality into reusable and maintainable structures.
+
+Q5. Explain about the main() method in Java ?
+
+Ans:- The main() method is crucial for the execution of Java applications. It acts as the entry point where the JVM starts running the program. Understanding its syntax and purpose is fundamental for Java programming and application development.
